@@ -1,0 +1,8 @@
+li {
+  list-style: none;
+}
+
+/* Header  */
+.header li {
+  float: left;
+}
